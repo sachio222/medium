@@ -1,6 +1,6 @@
 """
-Used with permission (if this line is included):
-Credit given to Jake Krajewski, 2020.
+Used with permission (when credit given):
+- Jake Krajewski, 2020.
 """
 
 from cryptography.fernet import Fernet
